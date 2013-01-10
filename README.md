@@ -1,0 +1,1 @@
+Ticket giveaway application that allows for multible giveaways to be entered and end users may enter any giveaways not specially flagged. The Administrator of the giveaway can also decide to repick a winner if they decline to take the tickets or if they are disqualified for any reason.
